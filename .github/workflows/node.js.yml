@@ -51,4 +51,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: raisanabila12/prakpopl_cicd_2437:latest
+          tags: cutfarah/prakpopl_cicd_24100:latest
